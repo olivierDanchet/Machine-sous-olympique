@@ -1,0 +1,4 @@
+Python==3.12
+Random==3.12
+Time==3.12
+Pygame==2.5.2
